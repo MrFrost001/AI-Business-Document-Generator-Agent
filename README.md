@@ -63,7 +63,6 @@ The project showcases concepts such as AI Agents, LLM integration, autonomous pl
                       ▼
              Final Business Proposal
 ```
-
 ---
 
 # ⚙️ Tech Stack
